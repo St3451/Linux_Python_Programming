@@ -1,26 +1,5 @@
 # Handin4
 
-<table>
-  <tr>
-    <td>Due date</td>
-    <td>Tuesday, Oct 1 </td>
-  </tr>
-  <tr>
-    <td>Format</td>
-    <td>Unix part: Put the relevant commands into the handin4.sh file. The individual exercises should be separated by empty lines (see the "Github, git and the weekly hand-ins" page on Absalon for an example).
-Python part: Put your Python code into the handin4.py file. Note that you no longer have to separate the Python code by whitespace now that you are writing functions.
-When you are ready to submit, use the <code>git commit -a -m "Submission 1"</code> command, where you replace <code>"Submission 1"</code> with a brief message explaining how this version of the files differs from the last, (e.g. <code>"Initial submission"</code>, <code>"Fixed bug in subquestion 1"</code>, etc), followed by <code>git push</code> </td>
-  </tr>
-  <tr>
-    <td>Setup</td>
-    <td><strong>Please make sure that your name and email address have been set up correctly</strong> for <code>git</code>. This is very important, since otherwise you will not receive emails about the correctness of your code (and we cannot see who is who). See the <a href="https://absalon.ku.dk/courses/35880/pages/github-git-and-the-weekly-hand-ins?module_item_id=801269">Github, git and the weekly hand-ins</a> page for details.
-  </tr> 
-  <tr>
-    <td>Other comments</td>
-    <td>As usual, the hand-in covers the topics covered in this week of the course. This means that there might be a few things that you won't be able to solve until after the Friday lecture. </td>
-  </tr>
-</table>
-
 Start by downloading the file:
 https://wouterboomsma.github.io/lpp2018/data/experimental_results.txt
 
