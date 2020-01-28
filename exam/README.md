@@ -1,4 +1,4 @@
-# Linux and Python Programming, Exam, 2019
+# Linux and Python Programming, Exam
 
 
 ## Background
