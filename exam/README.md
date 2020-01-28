@@ -38,39 +38,6 @@ files in various Unix and Python exercises. Before we begin, however,
 please read carefully through the following practical details of the
 exam. 
 
-<table><tr><td>
-<table><tr><td>
-<div style="margin-top:1em; margin-bottom:2em; width:100%; border:1px solid grey; padding: 0em 1em 1em 1em; box-sizing:border-box">
-  <h3 style="padding-top:0;text-align:center"><strong>Formal requirements:</strong></h3>
-
-  <dl>
-    <dt>How do I hand-in?</dt>
-    <dd>We will be using a combination of the Digital Exam system (https://eksamen.ku.dk) and Github to submit the exams. Submission of the exam consists of two steps: 1) Commit&push your code to github just as we have done in the weekly hand-ins. 2) Within the digital exam itself, submit a link to your exam github repository (i.e. <code>https://github.com/UCPH-LPP2019/exam-YOUR-USER-NAME</code>). <strong>It is important that you do both these steps!</strong> Note that you can actually complete the second step whenever you want during the exam week - even if you haven't finished your exam yet. We will simply extract the latest version from your github repository that was pushed before the deadline. If possible, submit the link in digital exam as a comment within the submission form. If that's not possible, please submit a plain text file (.txt) containing only the github link.</dd>
-    <dt>Format:</dt>
-    <dd>You should modify the following files in your github repository:
-      <ol>
-        <li>A Python file called <code>exam.py</code>, containing the function and class definitions.</li>
-        <li>A Python file called <code>exam_test.py</code>, containing test code for the individual questions.</li>
-        <li>A plain text file called <code >exam.sh</code>, containing the Unix commands used. The commands should be separated by empty lines, just like in the handins. The commands should be written so that they can be executed from the top-level directory (i.e. the directory in which <code>exam.sh</code> is located).</li>
-      </ol>
-    </dd>
-    <dt>Content:</dt>
-    <dd>For the Python part, remember to use
-      meaningful variable names, include docstrings for each
-      function, and add comments when code is not self-explanatory. Also, limit yourself to the curriculum covered in
-      the course, that is, <span style="font-weight:bold">do not use
-  list and dict comprehension, map, zip, reduce, filter and
-  lambda</span>. Also, <strong>please use external modules only when they
-  are explicitly mentioned in the exercise</strong>. Failure to do
-      any of these will force us to deduct points even for code that works.</dd>
-    <dt>Can we work in groups?</dt>
-    <dd><strong>No!</strong> You should do the exam <strong>by yourself</strong>, and <strong>not discuss or share your solutions with anyone</strong>.</span> We will systematically use plagiarism programs to catch similarities between the exam solutions, and if we detect any suspicious overlap we will be forced to report it to the University Study Administration, who will then act accordingly. Students have been expelled on the basis of plagiarism on this course
-      previously, so please take this seriously. You are of course welcome to seek information online, but please try to avoid copying large blocks of code verbatim from online examples. If you for some reason find it necessary to copy code directly (without rewriting it), then please add a comment that specifies the source of this code.</dd>
-  </dl>
-</div>
-</td></tr></table>
-</td></tr></table>
-
 ## Part 1: Data exploration
 
 We'll start by inspecting the data and doing some simple plotting.
