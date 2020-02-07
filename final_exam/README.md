@@ -318,35 +318,3 @@ You can now call the <code>plot_emissions</code> function with the additional <c
 </li>
 
 </ol>
-
-
-## Final remarks
-
-One last comment regarding help: while we can of course not help you
-with solving the exam exercise itself, we are available for questions
-regarding technical issues and in cases where you are in doubt about
-how a question should be interpreted. In particular, if you experience
-problems with your virtual machine that prevent you from solving the
-exam, please contact us immediately so we can find a solution as
-quickly as possible. Unlike the hand-ins throughout the course, you
-will (of course) <strong>not</strong> be able to get detailed feedback on your solution
-by submitting it to the automated correction server. However, we have
-set up the system to allow you to test whether the basic structure of
-your files is correct. It works exactly like the weekly handins: you
-can either run <code>pytest</code> locally or use git commit and git push (and
-receive an email). Please note that even if
-tests pass, it says nothing about the correctness of your assignment,
-so you cannot use it to validate your solution, but if a test fails,
-it means that this particular exercise does not run, and will
-therefore not be assessed for the exam. Using this service is entirely
-optional, but we highly recommend using it to rule out any technical
-issues.  If you experience code that works on your own machine but
-fails on the server, feel free to contact us about this, as this will
-fall under the category "technical issues" which we are allowed to
-help with. <strong>It is extremely important to
-note that the github submission by itself it not sufficient. YOU HAVE
-TO SUBMIT A LINK TO DIGITAL EXAM AS WELL.</strong> Also note that pushing to github
-once in a while is a good way to keep backups of your exam during
-the exam week.
-
-
