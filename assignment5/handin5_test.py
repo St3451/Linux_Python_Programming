@@ -1,4 +1,4 @@
-# 2. Create a new file, called handin5_test.py where you import the handin5 module. Then call the read_fasta function and save the result in a variable called fasta_dic$
+# 2. Create a new file, called handin5_test.py where you import the handin5 module. Then call the read_fasta function and save the result in a variable called fasta_dict
 import handin5
 fasta_dict = handin5.read_fasta("Ecoli.prot.fasta")
 print(fasta_dict.keys())
