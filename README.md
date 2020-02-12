@@ -35,7 +35,7 @@ This repository contains the weekly assignments and the final exam of the course
   * [Bash script](https://github.com/St3451/Linux_Python_Programming/blob/master/assignment6/handin6.sh)
   * [Python script](https://github.com/St3451/Linux_Python_Programming/blob/master/assignment6/handin6.py)
   * [Python script 2](https://github.com/St3451/Linux_Python_Programming/blob/master/assignment6/handin6_test1.py)
-  * [Python script 3](https://github.com/St3451/Linux_Python_Programming/blob/master/assignment6/handin6_test3.py)
+  * [Python script 3](https://github.com/St3451/Linux_Python_Programming/blob/master/assignment6/handin6_test2.py)
   * [Python script 4](https://github.com/St3451/Linux_Python_Programming/blob/master/assignment6/handin6_test3.py)
   
 ### Final Exam
